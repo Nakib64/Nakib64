@@ -14,9 +14,9 @@
 
 <h1>My Skills: </h1>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap; margin-top: 20px; font-family: Arial, sans-serif;">
+<div style="display: flex; gap: 60px; flex-wrap: wrap; margin-top: 20px; font-family: Arial, sans-serif;">
 
-  <div style="display: flex; align-items: center; gap: 10px;">
+  <div style="display: flex; align-items: center; gap: 15px; justify-items:center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />
     <span style="font-weight: bold;">React</span>
   </div>
@@ -57,7 +57,5 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=tokyonight&hide_border=true)
 
