@@ -11,7 +11,8 @@
   <li>Creating responsive and accessible UI components with Tailwind CSS and React</li>
   <li>Exploring TypeScript to write more scalable and maintainable code</li>
 </ul>
-### Skills
+
+<h1>My Skills: </h1>
 
 <div style="display: flex; gap: 40px; flex-wrap: wrap; margin-top: 20px; font-family: Arial, sans-serif;">
 
@@ -41,18 +42,21 @@
     <span style="font-weight: bold;">Tailwind CSS</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
-    <span style="font-weight: bold;">TypeScript</span>
-  </div>
-
 </div>
 
-
-
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+## 📊 GitHub Stats
+
+![Nafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafizuddowlanakib&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafizuddowlanakib&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nafizuddowlanakib&theme=tokyonight&hide_border=true)
