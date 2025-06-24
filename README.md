@@ -13,14 +13,33 @@
 </ul>
 ### Skills
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" /> <strong>React</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" /> <strong>JavaScript</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" /> <strong>Node.js</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" /> <strong>MongoDB</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="32" height="32" /> <strong>Tailwind CSS</strong> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" /> <strong>TypeScript</strong>
-</p>
+<div style="display: flex; gap: 40px; flex-wrap: wrap; margin-top: 20px; font-family: Arial, sans-serif;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />
+    <span style="font-weight: bold;">React</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+    <span style="font-weight: bold;">JavaScript</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+    <span style="font-weight: bold;">Node.js</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />
+    <span style="font-weight: bold;">MongoDB</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="48" height="48" />
+    <span style="font-weight: bold;">Tailwind CSS</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+    <span style="font-weight: bold;">TypeScript</span>
+  </div>
+</div>
+
 
 <p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
 <h2>GitHub Stats</h2>
