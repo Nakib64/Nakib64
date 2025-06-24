@@ -11,11 +11,14 @@
   <li>Creating responsive and accessible UI components with Tailwind CSS and React</li>
   <li>Exploring TypeScript to write more scalable and maintainable code</li>
 </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/167 target="_blank" rel="noreferrer nofollow">Weekly Vue News #203 - Vue 3 Best Practices, Docus V3, Nuxt 4 & 5, and more</a></li><li><a href=https://weekly-vue.news/issues/v2/166 target="_blank" rel="noreferrer nofollow">Weekly Vue News #202 - Efficient Vue Lists, Nuxt Multi-Tenancy, and More</a></li><li><a href=https://weekly-vue.news/issues/v2/165 target="_blank" rel="noreferrer nofollow">Weekly Vue News #201 - Roadmap to Nuxt 4, Image Optimization in Vue with Unpic, and more</a></li><li><a href=https://weekly-vue.news/issues/v2/164 target="_blank" rel="noreferrer nofollow">Weekly Vue News #200 - 200th Issue Celebration</a></li><li><a href=https://weekly-vue.news/issues/v2/163 target="_blank" rel="noreferrer nofollow">Weekly Vue News #199 - Optimize Performance with useInfiniteScroll from VueUse</a></li>
-  </ul>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="32" height="32" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
+</p>
 <p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
