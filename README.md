@@ -1,13 +1,11 @@
 <img src="https://i.ibb.co/rGjmk44k/Chat-GPT-Image-Jun-25-2025-02-40-41-AM.png" alt="Mokkapps GitHub README header image">
 <p> <a href="https://www.linkedin.com/in/nafiz-uddowla-nakib-42a730335/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/implementing-esr-nuxt target="_blank" rel="noreferrer nofollow">Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance</a></li><li><a href=https://mokkapps.de/blog/why-i-developed-my-own-nuxt-starter-kit target="_blank" rel="noreferrer nofollow">Why I Developed My Own Nuxt Starter Kit for SaaS Products</a></li><li><a href=https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar target="_blank" rel="noreferrer nofollow">Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar</a></li><li><a href=https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator target="_blank" rel="noreferrer nofollow">Nuxt Tip: Managing Page Load States With useLoadingIndicator</a></li><li><a href=https://mokkapps.de/vue-tips/use-effect-scope-for-managing-and-cleaning-up-reactive-effects target="_blank" rel="noreferrer nofollow">Vue Tip: Use effectScope for Managing and Cleaning Up Reactive Effects</a></li>
-  </ul>
+<h2>👋 About Me</h2>
+  
+<p>
+  Hi, I'm <strong>Nafiz Uddowla Nakib</strong> — a front-end focused full-stack developer passionate about building clean, responsive, and dynamic web applications. I specialize in React and the MERN stack, and I love turning ideas into real-world solutions with elegant code and great user experience. I'm currently learning TypeScript and Next.js to enhance my development workflow and build more scalable applications.
+</p>
+
 <p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
 <h2>Latest Newsletter Issues</h2>
   <ul>
