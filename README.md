@@ -47,16 +47,16 @@
 <h2>GitHub Stats</h2>
 ## 📊 GitHub Stats
 
-![Nafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafizuddowlanakib&show_icons=true&theme=tokyonight)
+![Nafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakib64&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafizuddowlanakib&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nafizuddowlanakib&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nakib64&theme=tokyonight&hide_border=true)
