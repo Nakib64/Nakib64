@@ -5,7 +5,12 @@
 <p>
   Hi, I'm <strong>Nafiz Uddowla Nakib</strong> — a front-end focused full-stack developer passionate about building clean, responsive, and dynamic web applications. I specialize in React and the MERN stack, and I love turning ideas into real-world solutions with elegant code and great user experience. I'm currently learning TypeScript and Next.js to enhance my development workflow and build more scalable applications.
 </p>
-
+<h1>🚀 Currently Working On</h1>
+<ul>
+  <li>Recently completed a full-stack B2B wholesale website. You can check it on the pinned section.</li>
+  <li>Creating responsive and accessible UI components with Tailwind CSS and React</li>
+  <li>Exploring TypeScript to write more scalable and maintainable code</li>
+</ul>
 <p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
 <h2>Latest Newsletter Issues</h2>
   <ul>
