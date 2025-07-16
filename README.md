@@ -19,7 +19,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 30px; margin-top: 25px; font-family: Arial, sans-serif;">
 
   <!-- Skill Item Template -->
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
+  <div style="display: flex; align-items: center; gap: 10px; height:40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="border-radius: 50%; background-color: white; padding: 5px;" />
     <span style="font-weight: bold; font-size: 16px;">React</span>
   </div>
