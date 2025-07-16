@@ -1,5 +1,6 @@
-<img src="https://i.ibb.co/rGjmk44k/Chat-GPT-Image-Jun-25-2025-02-40-41-AM.png" alt="Mokkapps GitHub README header image">
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![Header](./your-header-image-name.png)
+
+
 <p> <a href="https://www.linkedin.com/in/nafiz-uddowla-nakib-42a730335/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 <h2>👋 About Me</h2>
   
