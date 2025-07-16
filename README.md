@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/Wp4SGXty/github-header-image.png)
+![Header](https://i.ibb.co/ccmCMd7f/github-header-image-1.png)
 
 
 <p> <a href="https://www.linkedin.com/in/nafiz-uddowla-nakib-42a730335/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
