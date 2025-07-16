@@ -14,37 +14,78 @@
   <li>Exploring TypeScript to write more scalable and maintainable code</li>
 </ul>
 
-<h1>My Skills: </h1>
+<h1 style="font-family: Arial, sans-serif; font-size: 28px; font-weight: bold;">My Skills:</h1>
 
-<div style="display: flex; gap: 60px; flex-wrap: wrap; margin-top: 20px; font-family: Arial, sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-top: 25px; font-family: Arial, sans-serif;">
 
-  <div style="display: flex; align-items: center; gap: 15px; justify-items:center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />
+  <!-- React -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" height="36" />
     <span style="font-weight: bold;">React</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+  <!-- JavaScript -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
     <span style="font-weight: bold;">JavaScript</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
+  <!-- Node.js -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
     <span style="font-weight: bold;">Node.js</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" />
+  <!-- Express -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="36" height="36" style="background: white; border-radius: 4px;" />
+    <span style="font-weight: bold;">Express.js</span>
+  </div>
+
+  <!-- MongoDB -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" />
     <span style="font-weight: bold;">MongoDB</span>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <!-- Fixed Tailwind CSS icon URL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="32" height="32" />
+  <!-- Firebase Auth -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="36" height="36" />
+    <span style="font-weight: bold;">Firebase Auth</span>
+  </div>
+
+  <!-- Tailwind CSS -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="36" height="36" />
     <span style="font-weight: bold;">Tailwind CSS</span>
   </div>
 
+  <!-- Git -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36" />
+    <span style="font-weight: bold;">Git</span>
+  </div>
+
+  <!-- Deployment: Firebase -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Hosting" width="36" height="36" />
+    <span style="font-weight: bold;">Firebase Hosting</span>
+  </div>
+
+  <!-- Deployment: Netlify -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="36" height="36" />
+    <span style="font-weight: bold;">Netlify</span>
+  </div>
+
+  <!-- Deployment: Vercel -->
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="36" height="36" />
+    <span style="font-weight: bold;">Vercel</span>
+  </div>
+
 </div>
+
 
 <h2>GitHub Stats</h2>
 ## 📊 GitHub Stats
