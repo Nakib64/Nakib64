@@ -46,7 +46,7 @@
       <strong>Node.js</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40" alt="Express.js" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
       <br />
       <strong>Express.js</strong>
     </td>
@@ -63,7 +63,7 @@
       <strong>Firebase Auth</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
       <br />
       <strong>Tailwind CSS</strong>
     </td>
