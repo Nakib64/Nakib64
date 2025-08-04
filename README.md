@@ -25,66 +25,74 @@
 </ul>
 
 <!-- 💻 Skills -->
+<!-- 💻 Skills -->
 <h2>💻 My Skills</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-top: 20px; font-family: Arial, sans-serif;">
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br />
+      <strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40" alt="JavaScript" />
+      <br />
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br />
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40" alt="Express.js" />
+      <br />
+      <strong>Express.js</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br />
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase Auth" />
+      <br />
+      <strong>Firebase Auth</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+      <br />
+      <strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br />
+      <strong>Git</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase Hosting" />
+      <br />
+      <strong>Firebase Hosting</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40" alt="Netlify" />
+      <br />
+      <strong>Netlify</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" height="40" alt="Vercel" />
+      <br />
+      <strong>Vercel</strong>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-  <!-- Skill Card Template -->
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">React</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">JavaScript</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Node.js</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Express.js</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">MongoDB</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Firebase Auth</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Tailwind CSS</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Git</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Hosting" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Firebase Hosting</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Netlify</span>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; min-width: 180px;">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
-    <span style="font-weight: bold; font-size: 16px;">Vercel</span>
-  </div>
-</div>
 
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
