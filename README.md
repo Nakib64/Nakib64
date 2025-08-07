@@ -97,7 +97,7 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Nakib64/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakib64)](https://github.com/Nakib64/github-readme-stats)
 <!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
 
