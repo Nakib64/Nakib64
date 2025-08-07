@@ -97,14 +97,7 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakib64&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
-</p>
-<!-- 📊 GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-[![Gist Card](https://github.com/Nakib64/Blood-Aid/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Nakib64/github-readme-stats)
 <!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
 
