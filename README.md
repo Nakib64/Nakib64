@@ -103,7 +103,7 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github.com/Nakib64/Blood-Aid/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
