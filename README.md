@@ -35,6 +35,11 @@
 <table>
   <tr>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <br />
+      <strong>Next.js</strong>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       <br />
       <strong>React</strong>
@@ -49,13 +54,13 @@
       <br />
       <strong>Node.js</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
       <br />
       <strong>Express.js</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
       <br />
@@ -67,17 +72,17 @@
       <strong>Firebase Auth</strong>
     </td>
     <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border-radius: 50%; background: white; padding: 5px;" />
       <br />
       <strong>Tailwind CSS</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       <br />
       <strong>Git</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase Hosting" />
       <br />
@@ -93,9 +98,9 @@
       <br />
       <strong>Vercel</strong>
     </td>
-    <td></td>
   </tr>
 </table>
+
 
 
 <!-- 📊 GitHub Stats -->
