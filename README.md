@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="240">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
       <br />
       <strong>Next.js</strong>
@@ -116,6 +116,13 @@
 <h2>🔥 Top Languages</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
-[![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakib64&theme=radical&hide_border=true)
+  <span style="display: inline-flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" 
+         alt="Top Languages" 
+         style="border-radius: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakib64&theme=radical&hide_border=true" 
+         alt="Profile Stats" 
+         style="border-radius: 10px;" />
+  </span>
 </p>
+
