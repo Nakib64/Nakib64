@@ -117,5 +117,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
-
+[![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakib64&theme=radical&hide_border=true)
 </p>
