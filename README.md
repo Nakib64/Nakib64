@@ -106,10 +106,11 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakib64)](https://github.com/Nakib64/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakib64&cache_seconds=0)](https://github.com/Nakib64/github-readme-stats)
 <!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+
 </p>
