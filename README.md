@@ -22,31 +22,78 @@
 <!-- 🚀 Currently Working On -->
 <h2>🚀 Current Projects</h2>
 <ul style="line-height: 1.8; font-size: 15px;">
-  <li>🧩 Full-stack B2B wholesale web application (check pinned repo).</li>
+  <li>🧩 Full-stack AI powered Fitness web application (check pinned repo).</li>
   <li>💡 Building reusable UI components with Tailwind CSS + React + shadcn/ui.</li>
   <li>🤖 AI integration in web applications for smarter user experiences.</li>
   <li>📘 Learning TypeScript and Socket.io for real-time features.</li>
 </ul>
 
 <!-- 💻 Skills -->
-<h2>💻 Skills</h2>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <!-- Programming & Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<!-- 💻 Skills -->
+<h2>💻 My Skills</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <!-- Skill Logo Cards -->
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Next.js</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">React</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">JavaScript</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">TypeScript</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Node.js</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Express.js</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">MongoDB</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Firebase</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Tailwind CSS</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Git</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Vercel</p>
+  </div>
+
+  <div style="text-align:center; width:100px;">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <p style="margin-top:5px;">Netlify</p>
+  </div>
+</div>
+
 
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
