@@ -106,7 +106,7 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakib64&cache_seconds=0)](https://github.com/Nakib64/github-readme-stats)
+![Nakib64's GitHub Contributions](https://github-contributions-api.jogruber.de/v4/Nakib64)
 <!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
 
