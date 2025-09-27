@@ -30,67 +30,13 @@
 
 <!-- 💻 Skills in a Row (fit-content) -->
 <h2>💻 My Skills</h2>
-<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px 0; justify-content: flex-start;">
-  <!-- Skill Logo Cards -->
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Next.js</p>
-  </div>
 
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">React</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">JavaScript</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">TypeScript</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Node.js</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Express.js</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">MongoDB</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Firebase</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Tailwind CSS</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Git</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Vercel</p>
-  </div>
-
-  <div style="text-align:center; width: fit-content;">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50" style="border-radius:8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-    <p style="margin-top:5px;">Netlify</p>
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; overflow-x: auto; padding: 10px 0;">
+  <a href="https://github.com/syvixor/skills-icons" target="_blank" style="display:inline-block;">
+    <img src="https://skills.syvixor.com/api/icons?i=nextjs,react,js,ts,node,expressjs,mongodb,firebase,tailwind,git,vercel,netlify" 
+         alt="Skills" 
+         style="height:60px; object-fit: contain;" />
+  </a>
 </div>
 
 
