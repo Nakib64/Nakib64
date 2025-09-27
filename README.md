@@ -106,8 +106,7 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-![Nakib64's GitHub Contributions](https://github-contributions-api.jogruber.de/v4/Nakib64)
-<!-- 🔥 Top Languages -->
+![Nakib64's Stats](https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)<!-- 🔥 Top Languages -->
 <h2>🔥 Top Languages</h2>
 
 <p align="center">
