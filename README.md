@@ -105,11 +105,13 @@
 
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Nakib64's Stats" style="border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true" alt="Nakib64's Streak" style="border-radius: 10px;" />
+</div>
 
-![Nakib64's Stats](https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)<!-- 
 
-![Nakib64's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true)
-🔥 Top Languages -->
+
 
 <h2>🔥 Top Languages</h2>
 
