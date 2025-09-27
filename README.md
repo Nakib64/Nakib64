@@ -106,7 +106,11 @@
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-![Nakib64's Stats](https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)<!-- 🔥 Top Languages -->
+![Nakib64's Stats](https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)<!-- 
+
+![Nakib64's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true)
+🔥 Top Languages -->
+
 <h2>🔥 Top Languages</h2>
 
 <p align="center">
