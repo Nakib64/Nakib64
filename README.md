@@ -60,6 +60,6 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" 
        alt="Top Languages" style="border-radius: 10px; height: 180px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakib64&theme=radical&hide_border=true" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true&hide_title=true" 
        alt="Profile Stats" style="border-radius: 10px; height: 180px;" />
 </div>
