@@ -46,11 +46,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&hide_title=true" 
        alt="GitHub Stats" style="border-radius: 10px; height: 180px;" />
- <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true&hide_title=true" 
-  alt="GitHub Streak" 
-  style="border-radius: 10px; height: 180px;" 
-/>
+
 
 
 </div>
@@ -60,6 +56,5 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0" 
        alt="Top Languages" style="border-radius: 10px; height: 180px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakib64&theme=vision-friendly-dark&hide_border=true&hide_title=true" 
-       alt="Profile Stats" style="border-radius: 10px; height: 180px;" />
+
 </div>
