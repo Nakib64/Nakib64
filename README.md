@@ -36,8 +36,8 @@
 
 <div align="center">
 
-  <a href="https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/REPLACE_WITH_VIDEO_ID/maxresdefault.jpg" alt="Product Demo" width="90%" style="border-radius: 12px;" />
+  <a href="https://www.youtube.com/watch?v=ZK-rNEhJIDs" target="_blank">
+    <img src="https://img.youtube.com/vi/ZK-rNEhJIDs/maxresdefault.jpg" alt="Product Demo" width="90%" style="border-radius: 12px;" />
   </a>
 
   <p><em>Click the thumbnail to watch — replace <code>REPLACE_WITH_VIDEO_ID</code> with your video's YouTube ID.</em></p>
@@ -51,39 +51,27 @@
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="20%">
       <sub><strong>FRONTEND</strong></sub>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=react,nextjs,gsap&theme=dark" height="55" alt="React, Next.js, GSAP" />
     </td>
-  </tr>
-  <tr><td><br></td></tr>
-  <tr>
-    <td align="center" width="100%">
+    <td align="center" width="20%">
       <sub><strong>BACKEND</strong></sub>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="55" alt="Node, Express, Nest.js" />
     </td>
-  </tr>
-  <tr><td><br></td></tr>
-  <tr>
-    <td align="center" width="100%">
+    <td align="center" width="20%">
       <sub><strong>DATABASES</strong></sub>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="55" alt="Postgres, MongoDB, Redis" />
     </td>
-  </tr>
-  <tr><td><br></td></tr>
-  <tr>
-    <td align="center" width="100%">
+    <td align="center" width="20%">
       <sub><strong>DEPLOYMENT</strong></sub>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=aws,vercel,nginx,docker&theme=dark" height="55" alt="AWS, VPS, Nginx, Docker" />
     </td>
-  </tr>
-  <tr><td><br></td></tr>
-  <tr>
-    <td align="center" width="100%">
+    <td align="center" width="20%">
       <sub><strong>TOOLS</strong></sub>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" height="55" alt="Git, GitHub, Figma, Postman, VS Code" />
