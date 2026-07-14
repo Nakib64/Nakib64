@@ -4,6 +4,20 @@
 
 <br />
 
+<div align="center">
+
+<sub>N A F I Z &nbsp; U D D O W L A &nbsp; N A K I B</sub>
+
+<h3>
+  <a href="https://www.linkedin.com/in/nafizuddowla" target="_blank">LinkedIn</a>
+  &nbsp; ◆ &nbsp;
+  <a href="http://saasfactry.com" target="_blank">Portfolio</a>
+</h3>
+
+</div>
+
+<br />
+
 <!-- ABOUT -->
 <table width="100%">
   <tr>
@@ -22,8 +36,8 @@
 
 <div align="center">
 
-  <a href="https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/REPLACE_WITH_VIDEO_ID/maxresdefault.jpg" alt="Product Demo" width="90%" style="border-radius: 12px;" />
+  <a href="https://www.youtube.com/watch?v=ZK-rNEhJIDs" target="_blank">
+    <img src="https://img.youtube.com/vi/ZK-rNEhJIDs/maxresdefault.jpg" alt="Product Demo" width="90%" style="border-radius: 12px;" />
   </a>
 
   <p><em>Click the thumbnail to watch — replace <code>REPLACE_WITH_VIDEO_ID</code> with your video's YouTube ID.</em></p>
@@ -77,10 +91,7 @@
 <!-- STATS -->
 <h3 align="center">GitHub Activity</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="180" alt="GitHub Stats" style="border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0&hide_border=true" height="180" alt="Top Languages" style="border-radius: 10px;" />
-</div>
+
 
 <br />
 
@@ -89,30 +100,18 @@
 </div>
 
 <br />
-
-<!-- OPEN SOURCE -->
-<h3 align="center">Open Source</h3>
-
-<table width="100%">
-  <tr>
-    <td>
-      <p align="center" style="font-size:15px; line-height:1.7; max-width: 780px; margin: 0 auto;">
-        I contribute to and maintain a set of open-source utilities and components used across my production projects. Pinned repositories below reflect active, maintained work rather than one-off experiments.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- STATS -->
+<h3 align="center">GitHub Activity</h3>
 
 <div align="center">
-  <a href="https://github.com/Nakib64?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nakib64&repo=REPLACE_WITH_REPO_NAME&theme=vision-friendly-dark&hide_border=true" height="160" alt="Pinned Repo" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=Nakib64&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="180" alt="GitHub Stats" style="border-radius: 10px;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nakib64&layout=compact&theme=tokyonight&cache_seconds=0&hide_border=true" height="180" alt="Top Languages" style="border-radius: 10px;" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nafizuddowla" target="_blank">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="http://saasfactry.com" target="_blank">Portfolio</a>
+  <img src="https://streak-stats.demolab.com/?user=Nakib64&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" style="border-radius: 10px;" />
 </div>
+
+
