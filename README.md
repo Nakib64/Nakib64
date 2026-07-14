@@ -49,7 +49,7 @@
 <!-- SKILLS -->
 <h3 align="center">Technical Stack</h3>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="center" width="100%">
       <sub><strong>FRONTEND</strong></sub>
@@ -127,3 +127,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nakib64&repo=REPLACE_WITH_REPO_NAME&theme=vision-friendly-dark&hide_border=true" height="160" alt="Pinned Repo" />
   </a>
 </div>
+
