@@ -3,10 +3,10 @@
 
 <!-- 🔗 Socials -->
 <p align="center" style="margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/nafiz-uddowla-nakib-42a730335/" target="_blank">
+  <a href="https://www.linkedin.com/in/nafizuddowla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="https://portfolio-pink-psi-72.vercel.app/" target="_blank">
+  <a href="http://saasfactry.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
 </p>
