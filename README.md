@@ -97,22 +97,3 @@
 
 <br />
 
-<!-- OPEN SOURCE -->
-<h3 align="center">Open Source</h3>
-
-<table width="100%">
-  <tr>
-    <td>
-      <p align="center" style="font-size:15px; line-height:1.7; max-width: 780px; margin: 0 auto;">
-        I contribute to and maintain a set of open-source utilities and components used across my production projects. Pinned repositories below reflect active, maintained work rather than one-off experiments.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/Nakib64?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nakib64&repo=REPLACE_WITH_REPO_NAME&theme=vision-friendly-dark&hide_border=true" height="160" alt="Pinned Repo" />
-  </a>
-</div>
-
